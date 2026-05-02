@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arunagiri M</h1>
-<h3 align="center">A passionate Web developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunagiri0512&label=Profile%20views&color=0e75b6&style=flat" alt="arunagiri0512" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunagiri0512" alt="arunagiri0512" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunagiri0512&label=Profile%20views&color=0e75b6&style=flat" alt="arunagiri0512" /> </p> -->
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunagiri0512" alt="arunagiri0512" /></a> </p> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=32&duration=3000&pause=1000&color=00C6A2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Arunagiri+M;SAP+ABAP+Developer;S%2F4HANA+%7C+RAP+%7C+CDS+%7C+Fiori;Based+in+Ireland+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
