@@ -181,8 +181,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C6A2&height=80&section=footer" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunagiri0512&show_icons=true&locale=en&layout=compact" alt="arunagiri0512" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunagiri0512&show_icons=true&locale=en" alt="arunagiri0512" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunagiri0512&" alt="arunagiri0512" /></p>
