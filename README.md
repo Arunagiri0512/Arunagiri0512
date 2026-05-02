@@ -32,83 +32,25 @@
 ---
 
 ## 🛠️ Tech Stack & Skills
-<h2 style="font-size: 18px; font-weight: 500; margin: 0 0 1.5rem 0; color: var(--color-text-primary);">Tech Stack & Skills</h2>
 
-<div style="margin-bottom: 2rem;">
-  <h3 style="font-size: 14px; font-weight: 500; color: var(--color-text-secondary); margin: 0 0 0.75rem 0;">SAP Core</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <span style="background: var(--color-background-info); color: var(--color-text-info); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">ABAP (HANA)</span>
-    <span style="background: var(--color-background-info); color: var(--color-text-info); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">RAP Framework</span>
-    <span style="background: var(--color-background-info); color: var(--color-text-info); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">CDS Views</span>
-    <span style="background: var(--color-background-info); color: var(--color-text-info); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">OData</span>
-    <span style="background: var(--color-background-info); color: var(--color-text-info); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">S/4HANA</span>
-    <span style="background: var(--color-background-info); color: var(--color-text-info); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">SAP BTP</span>
-  </div>
-</div>
-
-<div style="margin-bottom: 2rem;">
-  <h3 style="font-size: 14px; font-weight: 500; color: var(--color-text-secondary); margin: 0 0 0.75rem 0;">Frontend</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <span style="background: var(--color-background-success); color: var(--color-text-success); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">SAP UI5</span>
-    <span style="background: var(--color-background-success); color: var(--color-text-success); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">SAP Fiori</span>
-    <span style="background: var(--color-background-success); color: var(--color-text-success); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">JavaScript</span>
-    <span style="background: var(--color-background-success); color: var(--color-text-success); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">HTML5</span>
-    <span style="background: var(--color-background-success); color: var(--color-text-success); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); font-weight: 400;">CSS3</span>
-  </div>
-</div>
-
-<div style="margin-bottom: 2rem;">
-  <h3 style="font-size: 14px; font-weight: 500; color: var(--color-text-secondary); margin: 0 0 0.75rem 0;">SAP Modules</h3>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 8px;">
-    <div style="background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); padding: 10px 14px;">
-      <div style="font-size: 13px; font-weight: 500; color: var(--color-text-primary);">SD</div>
-      <div style="font-size: 12px; color: var(--color-text-secondary); margin-top: 2px;">Sales & Distribution</div>
-    </div>
-    <div style="background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); padding: 10px 14px;">
-      <div style="font-size: 13px; font-weight: 500; color: var(--color-text-primary);">MM</div>
-      <div style="font-size: 12px; color: var(--color-text-secondary); margin-top: 2px;">Materials Management</div>
-    </div>
-    <div style="background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); padding: 10px 14px;">
-      <div style="font-size: 13px; font-weight: 500; color: var(--color-text-primary);">FI</div>
-      <div style="font-size: 12px; color: var(--color-text-secondary); margin-top: 2px;">Finance</div>
-    </div>
-    <div style="background: var(--color-background-primary); border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-md); padding: 10px 14px;">
-      <div style="font-size: 13px; font-weight: 500; color: var(--color-text-primary);">PP</div>
-      <div style="font-size: 12px; color: var(--color-text-secondary); margin-top: 2px;">Production Planning</div>
-    </div>
-  </div>
-</div>
-
-<div>
-  <h3 style="font-size: 14px; font-weight: 500; color: var(--color-text-secondary); margin: 0 0 0.75rem 0;">Integration & Tools</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <span style="background: var(--color-background-secondary); color: var(--color-text-primary); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); border: 0.5px solid var(--color-border-tertiary); font-weight: 400;">RFC / BAPI</span>
-    <span style="background: var(--color-background-secondary); color: var(--color-text-primary); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); border: 0.5px solid var(--color-border-tertiary); font-weight: 400;">REST APIs</span>
-    <span style="background: var(--color-background-secondary); color: var(--color-text-primary); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); border: 0.5px solid var(--color-border-tertiary); font-weight: 400;">SAP PI/PO</span>
-    <span style="background: var(--color-background-secondary); color: var(--color-text-primary); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); border: 0.5px solid var(--color-border-tertiary); font-weight: 400;">SAP AI Core</span>
-    <span style="background: var(--color-background-secondary); color: var(--color-text-primary); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); border: 0.5px solid var(--color-border-tertiary); font-weight: 400;">Jira</span>
-    <span style="background: var(--color-background-secondary); color: var(--color-text-primary); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); border: 0.5px solid var(--color-border-tertiary); font-weight: 400;">Confluence</span>
-    <span style="background: var(--color-background-secondary); color: var(--color-text-primary); font-size: 13px; padding: 6px 14px; border-radius: var(--border-radius-md); border: 0.5px solid var(--color-border-tertiary); font-weight: 400;">Agile / Scrum</span>
-  </div>
-</div>
 # SAP Core
-<!-- <p>
+ <p>
   <img src="https://img.shields.io/badge/ABAP%20(HANA)-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https:/##/img.shields.io/badge/RAP%20Framework-00C6A2?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/CDS%20Views-F0AB00?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/OData-FF6900?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP%20BTP-FF6900?style=for-the-badge&logo=sap&logoColor=white" />
-</p> -->
+</p> 
 
 ### Frontend
-<!-- <p>
+<p>
   <img src="https://img.shields.io/badge/SAP%20UI5-0070F2?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP%20Fiori-00C6A2?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> -->
-<!-- </p>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+ </p>
 
 ### SAP Modules
 <p>
@@ -116,10 +58,10 @@
   <img src="https://img.shields.io/badge/MM-Materials%20Mgmt-00C6A2?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/FI-Finance-F0AB00?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/PP-Production%20Planning-FF6900?style=for-the-badge&logo=sap&logoColor=white" />
-</p> -->
+</p> 
 
 ### Integration & Tools
-<!-- <p>
+<p>
   <img src="https://img.shields.io/badge/RFC%20%2F%20BAPI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-00C6A2?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP%20PI%2FPO-FF6900?style=for-the-badge&logo=sap&logoColor=white" />
@@ -127,7 +69,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-20B2AA?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-</p> -->
+</p> 
 
 ---
 
