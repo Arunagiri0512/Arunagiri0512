@@ -31,45 +31,41 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-# SAP Core
- <p>
-  <img src="https://img.shields.io/badge/ABAP%20(HANA)-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https:/##/img.shields.io/badge/RAP%20Framework-00C6A2?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/CDS%20Views-F0AB00?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/OData-FF6900?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20BTP-FF6900?style=for-the-badge&logo=sap&logoColor=white" />
-</p> 
-
-### Frontend
+🛠️ Tech Stack & Skills
+SAP Core
 <p>
-  <img src="https://img.shields.io/badge/SAP%20UI5-0070F2?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20Fiori-00C6A2?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
- </p>
-
-### SAP Modules
+  <img src="https://img.shields.io/badge/ABAP%20(HANA)-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAP%20Framework-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/CDS%20Views-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/OData-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white" />
+</p>
+Frontend
 <p>
-  <img src="https://img.shields.io/badge/SD-Sales%20%26%20Distribution-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MM-Materials%20Mgmt-00C6A2?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/FI-Finance-F0AB00?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PP-Production%20Planning-FF6900?style=for-the-badge&logo=sap&logoColor=white" />
-</p> 
-
-### Integration & Tools
+  <img src="https://img.shields.io/badge/SAP%20UI5-0070F2?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20Fiori-0070F2?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+SAP Modules
 <p>
-  <img src="https://img.shields.io/badge/RFC%20%2F%20BAPI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-00C6A2?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20PI%2FPO-FF6900?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20AI%20Core-7B2FBE?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-20B2AA?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-</p> 
+  <img src="https://img.shields.io/badge/SD-Sales%20%26%20Distribution-2E7D32?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MM-Materials%20Management-2E7D32?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/FI-Finance-2E7D32?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PP-Production%20Planning-2E7D32?style=flat-square&logo=sap&logoColor=white" />
+</p>
+Integration & Tools
+<p>
+  <img src="https://img.shields.io/badge/RFC%20%2F%20BAPI-555555?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-555555?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20PI%2FPO-555555?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20AI%20Core-7B2FBE?style=flat-square&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-20B2AA?style=flat-square" />
+</p>
 
 ---
 
